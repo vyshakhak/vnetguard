@@ -8,7 +8,7 @@ This tool relies on `nmap` and `python-nmap`. Ensure Nmap is updated on your Kal
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/vnetguard.git](https://github.com/YOUR_USERNAME/vnetguard.git)
+git clone [https://github.com/vyshakhak/vnetguard.git](https://github.com/vyshakhak/vnetguard.git)
 cd vnetguard
 
 # Install dependencies
